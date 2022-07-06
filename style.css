@@ -31,6 +31,9 @@ h3 {
     margin-top: 5px;
 }
 
+section {
+    display: flex;
+}
 
 
 #Button-banner {
@@ -139,4 +142,33 @@ h2 {
 
 .line {
     margin-top: 270px;
+}
+
+.threeboxes {
+    width: 90%;
+    height: 300px;
+
+    margin-left: 5%;
+
+
+}
+
+.boxes {
+    box-shadow: 5px 5px gray;
+    margin-right: 5%;
+    padding-right: 5%;
+    padding-left: 5%;
+
+}
+
+#food {
+    background-color: rgb(207, 239, 239);
+}
+
+#family {
+    background-color: rgb(243, 202, 202);
+}
+
+#education {
+    background-color: rgb(247, 247, 210);
 }
