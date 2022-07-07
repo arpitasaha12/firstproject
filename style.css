@@ -172,3 +172,76 @@ h2 {
 #education {
     background-color: rgb(247, 247, 210);
 }
+
+.half {
+    display: flex;
+}
+
+#rightside {
+    width: 40%;
+    margin: 100px;
+    margin-left: 200px;
+}
+
+.link-button {
+    border: none;
+    background-color: rgb(233, 61, 81);
+    padding: 16px 20px;
+    font-size: 16px;
+
+    align-items: center;
+    border-radius: 5px;
+    text-decoration: none;
+    color: white;
+    font-weight: 200;
+    margin-top: 20px;
+}
+
+#rightside img {
+    width: 600px;
+}
+
+.updates {
+    margin-left: 700px;
+    width: 300px;
+}
+
+#ahead {
+    margin-left: 300px;
+}
+
+.add {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100px;
+    border-color: white;
+}
+
+.form-add {
+
+    border-radius: white;
+    border-color: white;
+    height: 30px;
+    background: 200px;
+    background-color: beige;
+
+
+
+
+}
+
+#text {
+    color: rgb(153, 146, 146);
+    background-color: rgb(238, 245, 245);
+}
+
+#sub {
+    background-color: rgb(217, 57, 57);
+    color: white;
+}
+
+.foot {
+    text-align: center;
+    font-style: oblique;
+}
